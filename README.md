@@ -1,8 +1,8 @@
-# Forecasting-Revenue-Vendor_25-SARIMA
+# Forecasting Revenue Using SARIMA Model
 
 There are 60 vendors in the dataset with unique vendor ID's. 
 
-Here I'll built a best-fit SARIMA model to predict revenue for vendor_id 25 for next 3 years.
+Here I'll built a best-fit SARIMA models to predict revenue for vendor_id 25 and vendor_id_31 for next 3 years.
 
 # Procedures
  Data Analysis 
